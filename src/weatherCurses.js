@@ -1,7 +1,7 @@
 export const weatherCases = {
     Rain: {
       colors: ["#00C6FB", "#005BEA"],
-      title: "Raining like a MF",
+      title: "Raining like a Motherfucker",
       subtitle: "For more info look outside",
       icon: "weather-rainy"
     },
